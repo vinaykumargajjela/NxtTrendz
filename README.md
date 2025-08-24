@@ -4,7 +4,9 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 
 # Live :
 cd NxtTrendz
+
 npm install   # run this once to install dependencies
+
 npm start
 
 
