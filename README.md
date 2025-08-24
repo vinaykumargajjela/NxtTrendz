@@ -2,7 +2,10 @@
 
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
-Live : 
+# Live :
+cd NxtTrendz
+npm install   # run this once to install dependencies
+npm start
 
 
 ### Refer to the video below:
